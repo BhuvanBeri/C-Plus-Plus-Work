@@ -1,0 +1,1 @@
+// 69 Sqrt(X) question in leetcode 
